@@ -1,10 +1,10 @@
-# Transaction management application with TypeORM and sending files with Multer.
+# Web wallet application with TypeORM and sending files with Multer.
 
 ## Install project
 
-$ git clone https://github.com/lildix/typeorm-upload
+$ git clone https://github.com/lildix/web-wallet-server
 
-$ cd typeorm-upload
+$ cd web-wallet-server
 
 $ yarn
 
