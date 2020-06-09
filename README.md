@@ -1,4 +1,4 @@
-# Web wallet application with TypeORM and sending files with Multer.
+# Web wallet server with TypeORM and sending files with Multer.
 
 ## Install project
 
